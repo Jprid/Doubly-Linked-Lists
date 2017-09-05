@@ -6,3 +6,9 @@
 
 * NO MEMORY LEAKS!
 
+* compile with:
+
+```
+g++ main.cpp HotDog.cpp Order.cpp Stand.cpp -o PROG_NAME -std=c++11
+// PROG_NAME is output filename
+```
